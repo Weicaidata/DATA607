@@ -122,5 +122,5 @@ avocado3 %>% group_by(Month = month(Date)) %>% summarize(TotalVolume = sum(Volum
 # For each month, summarize the sum of volume and mean of average price, arrange from high quantity to low quantity
 ```
 
-####Conclusion: December 2018 is the month which avocado had the highest price and lowest volume.
+####Conclusion: December 2018 is the month which avocado had the highest price and lowest volume..
 
